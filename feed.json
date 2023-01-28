@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nwnsec",
+    "description": "",
+    "home_page_url": "https://nwnsec.github.io",
+    "feed_url": "https://nwnsec.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nwn"
+    },
+    "items": [
+        {
+            "id": "https://nwnsec.github.io/apa-itu-mbti.html",
+            "url": "https://nwnsec.github.io/apa-itu-mbti.html",
+            "title": "Apa itu MBTI?",
+            "summary": "MBTI (Myers-Briggs Type Indicator) adalah tes kepribadian yang digunakan untuk mengidentifikasi tipe kepribadian seseorang. Tes ini didasarkan pada teori Carl Jung tentang tipe kepribadian. MBTI mengklasifikasikan individu ke dalam salah satu dari 16 tipe kepribadian yang berbeda berdasarkan empat dimensi: perceiving (Ekstrovert/Introvert), judging (Sensing/Intuition), thinking&hellip;",
+            "content_html": "<p class=\"dropcap\"> </p>\n<div class=\"relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]\">\n<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p class=\"msg msg--highlight   \">MBTI (Myers-Briggs Type Indicator) adalah tes kepribadian yang digunakan untuk mengidentifikasi tipe kepribadian seseorang. Tes ini didasarkan pada teori Carl Jung tentang tipe kepribadian. MBTI mengklasifikasikan individu ke dalam salah satu dari 16 tipe kepribadian yang berbeda berdasarkan empat dimensi: perceiving (Ekstrovert/Introvert), judging (Sensing/Intuition), thinking (Thinking/Feeling), dan judging (Judging/Perceiving). Contoh dari tipe kepribadian menurut MBTI adalah ENFJ (Ekstrovert, Intuisi, Perasaan, Perceiving) yang merupakan tipe kepribadian yang idealis, memiliki empati yang kuat dan cenderung menjadi pemimpin yang baik.</p>\n</div>\n</div>\n</div>\n<div class=\"flex justify-between\">\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible\"> </div>\n<div>\n<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p>Perceiving (Ekstrovert/Introvert) adalah dimensi yang menunjukkan bagaimana seseorang mengambil informasi dari lingkungannya. Ekstrovert menyukai interaksi sosial dan banyak berinteraksi dengan orang lain, sementara Introvert lebih suka bekerja sendiri dan menyimpan energi dari interaksi sosial.</p>\n<p>Judging (Sensing/Intuition) adalah dimensi yang menunjukkan bagaimana seseorang memproses informasi. Sensing menyukai fakta dan detail yang nyata, sementara Intuition lebih tertarik pada ide dan konsep abstrak.</p>\n<p>Thinking (Thinking/Feeling) adalah dimensi yang menunjukkan bagaimana seseorang mengambil keputusan. Thinking mengutamakan logika dan fakta dalam pengambilan keputusan, sementara Feeling lebih memperhatikan perasaan dan hubungan dengan orang lain.</p>\n<p>Contoh dari tipe kepribadian menurut MBTI adalah ISTJ (Introvert, Sensing, Thinking, Judging) yang merupakan tipe kepribadian yang praktis, tegas dan sangat terorganisir.</p>\n<blockquote>\n<p> </p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "author": {
+                "name": "nwn"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-28T19:18:50+07:00",
+            "date_modified": "2023-01-28T19:18:50+07:00"
+        }
+    ]
+}
