@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Editorial</title>
-    <link href="https://nwnsec.github.io/feed.xml" rel="self" />
-    <link href="https://nwnsec.github.io" />
+    <link href="https://mbtiblog.github.io/feed.xml" rel="self" />
+    <link href="https://mbtiblog.github.io" />
     <updated>2023-01-29T00:39:49+07:00</updated>
     <author>
         <name>Editor</name>
     </author>
-    <id>https://nwnsec.github.io</id>
+    <id>https://mbtiblog.github.io</id>
 
     <entry>
         <title>Breaking Down Barriers: Using the Myers-Briggs Type Indicator to Promote Inclusivity and Diversity</title>
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/breaking-down-barriers-using-the-myers-briggs-type-indicator-to-promote-inclusivity-and-diversity.html"/>
-        <id>https://nwnsec.github.io/breaking-down-barriers-using-the-myers-briggs-type-indicator-to-promote-inclusivity-and-diversity.html</id>
+        <link href="https://mbtiblog.github.io/breaking-down-barriers-using-the-myers-briggs-type-indicator-to-promote-inclusivity-and-diversity.html"/>
+        <id>https://mbtiblog.github.io/breaking-down-barriers-using-the-myers-briggs-type-indicator-to-promote-inclusivity-and-diversity.html</id>
 
         <updated>2023-01-29T00:39:49+07:00</updated>
             <summary>
@@ -45,8 +45,8 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/the-power-of-understanding-with-mbti-tips-for-estj-and-esfp.html"/>
-        <id>https://nwnsec.github.io/the-power-of-understanding-with-mbti-tips-for-estj-and-esfp.html</id>
+        <link href="https://mbtiblog.github.io/the-power-of-understanding-with-mbti-tips-for-estj-and-esfp.html"/>
+        <id>https://mbtiblog.github.io/the-power-of-understanding-with-mbti-tips-for-estj-and-esfp.html</id>
 
         <updated>2023-01-28T23:19:53+07:00</updated>
             <summary>
@@ -78,8 +78,8 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/achieving-balance-and-success-with-mbti-insights-for-the-intp-and-infp.html"/>
-        <id>https://nwnsec.github.io/achieving-balance-and-success-with-mbti-insights-for-the-intp-and-infp.html</id>
+        <link href="https://mbtiblog.github.io/achieving-balance-and-success-with-mbti-insights-for-the-intp-and-infp.html"/>
+        <id>https://mbtiblog.github.io/achieving-balance-and-success-with-mbti-insights-for-the-intp-and-infp.html</id>
 
         <updated>2023-01-28T23:17:22+07:00</updated>
             <summary>
@@ -111,8 +111,8 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/exploring-careers-through-mbti-a-guide-for-istjs-and-isfjs.html"/>
-        <id>https://nwnsec.github.io/exploring-careers-through-mbti-a-guide-for-istjs-and-isfjs.html</id>
+        <link href="https://mbtiblog.github.io/exploring-careers-through-mbti-a-guide-for-istjs-and-isfjs.html"/>
+        <id>https://mbtiblog.github.io/exploring-careers-through-mbti-a-guide-for-istjs-and-isfjs.html</id>
 
         <updated>2023-01-28T23:12:36+07:00</updated>
             <summary>
@@ -142,8 +142,8 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/building-strong-relationships-with-mbti-understanding-the-enfj-and-esfj-personality-types.html"/>
-        <id>https://nwnsec.github.io/building-strong-relationships-with-mbti-understanding-the-enfj-and-esfj-personality-types.html</id>
+        <link href="https://mbtiblog.github.io/building-strong-relationships-with-mbti-understanding-the-enfj-and-esfj-personality-types.html"/>
+        <id>https://mbtiblog.github.io/building-strong-relationships-with-mbti-understanding-the-enfj-and-esfj-personality-types.html</id>
 
         <updated>2023-01-28T23:12:29+07:00</updated>
             <summary>
@@ -174,8 +174,8 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://nwnsec.github.io/navigating-the-workplace-as-an-infp-insights-from-mbti.html"/>
-        <id>https://nwnsec.github.io/navigating-the-workplace-as-an-infp-insights-from-mbti.html</id>
+        <link href="https://mbtiblog.github.io/navigating-the-workplace-as-an-infp-insights-from-mbti.html"/>
+        <id>https://mbtiblog.github.io/navigating-the-workplace-as-an-infp-insights-from-mbti.html</id>
 
         <updated>2023-01-28T23:09:05+07:00</updated>
             <summary>
